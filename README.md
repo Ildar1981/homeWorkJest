@@ -1,2 +1,2 @@
 # enzyme-example-jest
-Example project with React + Enzyme + Jest
+Example project with React +  Jest
